@@ -1,6 +1,6 @@
 ## Kazi Rifat Ahmed
-PhD Applicant (Fall 2026)  
-Computer Vision • Medical Imaging • Generative AI • Secure & Robust AI
+Seeking PhD Position  
+Computer Vision • Medical Imaging • Generative AI • Secure & Robust A • Generative AI • Trustworthyness
 
 I am a researcher with a background in computer vision, image processing, and deep learning, 
 with research experience spanning medical imaging, generative models, and secure machine 
